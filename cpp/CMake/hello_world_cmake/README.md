@@ -16,7 +16,7 @@ Building CMake projects consists of 2 steps:
 
 * `cmake --build build` - Build
     * `cmake` - cmake executable (using PATH)
-    * `--build build` - build CMake project generated in the build directory
+    * `--build build` - build CMake project generated in the `build` directory
 
 ## Running
 The built executable will be written into the `build` directory.
