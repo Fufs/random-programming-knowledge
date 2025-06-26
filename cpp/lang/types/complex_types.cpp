@@ -1,2 +1,3 @@
 // TODO: string
-// TODO: mention custom types in later tutorials
+// TODO: Smart pointers
+// TODO: mention programmer-defined custom types in later tutorials

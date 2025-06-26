@@ -2,29 +2,33 @@
 These tutorials assume basic knowledge of C/C++ syntax.
 
 # Tutorials
-  0. Hello World
-  1. Memory management
-  * Pointers and References
-  * Static Allocation
-  * Dynamic Allocation
-  2. Types
-  * Primitive types
-  * Complex types
-  * Arrays
-  * Structs
-  3. Conditionals
-  * `if` statements
-  * `switch` statements
-  4. Loops
-  * `while` loop
-  * `do..while` loop
-  * `for` loop
-  * `for` each loop
-  5. Streams
-  6. Filesystem
-  7. Preprocessor
-  8. Classes
-  9. Templates
+  0. [ x ] Hello World
+  1. [ ] Memory management
+  * [ x ] Pointers and References
+  * [ x ] Static Allocation
+  * [ ] Dynamic Allocation
+  2. [ ] Types
+  * [ x ] Primitive types
+  * [ ] Complex types
+  * [ ] Arrays
+  * [ ] Structs
+  * [ ] Casting
+  3. [ ] Conditionals
+  * [ ] `if` statement
+  * [ ] `switch` statement
+  * [ ] Conditional control (TODO: can you?)
+  4. [ ] Loops
+  * [ ] `while` loop
+  * [ ] `do..while` loop
+  * [ ] `for` loop
+  * [ ] `for` Each loop
+  * [ ] Loop Control
+  5. [ ] Streams
+  6. [ ] Filesystem
+  7. [ ] Preprocessor
+  8. [ ] Classes
+  9. [ ] Templates
+  10. [ ] Concurrency
 
 ## TODO:
 Learn the following concepts:
